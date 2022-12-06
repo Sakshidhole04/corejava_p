@@ -11,7 +11,7 @@ class Main
 	}
 	void disp1()
 	{
-		System.out.println("I m from batch B47");
+		System.out.println("I m from batch B37");
 	}
 }
 public class Cube extends Main
