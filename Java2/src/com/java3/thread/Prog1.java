@@ -3,7 +3,7 @@ package com.java3.thread;
 
 class Eclipse extends Thread
 {
-	public void run()
+	public void  run()
 	{
 		System.out.println("Eclipse Thread Id is "+Thread.currentThread().getId());
 	}
@@ -44,6 +44,8 @@ public class Prog1{
 		
 		Calender obj3=new Calender();
 		obj3.start();
+		
+		System.out.println("Main Thread Id is "+Thread.currentThread().getId());
 
 	}
 
