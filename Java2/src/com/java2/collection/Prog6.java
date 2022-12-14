@@ -1,6 +1,6 @@
 //linkedlist
 //iterator method
-
+//has three method hasnext next and remove method method
 package com.java2.collection;
 
 import java.util.List;
@@ -32,8 +32,14 @@ public class Prog6
 		
 		System.out.println(obj);
 		
+		obj.sort(null);
+		
+		
 		Prog6 p=new Prog6();
 		Collections.reverse(obj);
+		p.Display(obj);
+		System.out.println("****************");
+		obj.sort(null);
 		p.Display(obj);
 		
 
