@@ -24,7 +24,7 @@ class Data
 		return "Data [str=" + str + "]";
 	}
 }
-//*********generics******//
+//*********generate generics class******//
 class Data_generic<T>
 {
 	private T obj;
