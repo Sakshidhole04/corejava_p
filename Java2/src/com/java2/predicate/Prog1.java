@@ -27,7 +27,7 @@ public class Prog1 {
 		
 		String names[]= {"john","mary","smith","scott","david"};
 		
-		//enhance loop
+		//enhance for loop
 		for(String name:names)
 		{
 			if(p1.test(name))

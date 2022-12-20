@@ -1,4 +1,4 @@
-//chaining consumer
+//chaining consumer----andThen() method
 
 package com.java2.consumers;
 

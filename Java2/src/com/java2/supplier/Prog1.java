@@ -1,4 +1,4 @@
-//supplier---> doesnit take input but supply/return us the value
+//supplier---> doesnt take input but supply/return us the value
 package com.java2.supplier;
 
 import java.util.Date;
